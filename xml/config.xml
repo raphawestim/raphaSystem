@@ -2,7 +2,7 @@
 
 <configuracoes>
 
-	<modoDesenvolvimento>false</modoDesenvolvimento>
+	<modoDesenvolvimento>true</modoDesenvolvimento>
 
 	<midiaStreaming>false</midiaStreaming>
 	<caminhoStreaming></caminhoStreaming>
