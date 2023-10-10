@@ -4,11 +4,32 @@
 
 <p>Este projeto Design System é uma robusta e abrangente biblioteca de componentes e diretrizes de design, desenvolvida com base no framework Foundation, HTML, CSS, SCSS e jQuery. Este Design System foi criado com o objetivo de proporcionar uma experiência de design consistente e acessível em todas as interfaces de usuário, desde telas de desktop até dispositivos móveis.</p>
 
+## Recursos Educacionais de Qualidade
+
+<div>
+  <p>Este projeto foi especialmente projetado para atender às necessidades de cursos online, oferecendo uma ampla gama de recursos educacionais de qualidade.</p>
+
+  <p>Oferecemos uma variedade de telas e componentes específicos para aprendizado, incluindo:</p>
+
+  <ul>
+    <li>Telas de Lições e Módulos.</li>
+    <li>Questionários Interativos.</li>
+    <li>Recursos Multimídia (vídeos, podcasts).</li>
+    <li>Ferramentas de Avaliação.</li>
+    <li>Exercícios Práticos.</li>
+    <li>Suporte para Monitoramento de Progresso de Alunos.</li>
+  </ul>
+</div>
+
+## Padrão SCORM 1.2
+
+<p>Este Design System é compatível com o padrão SCORM 1.2, tornando-o adequado para ambientes de e-learning que necessitam de rastreamento de progresso do aluno, registro de resultados e relatórios de desempenho.</p>
+
 ## Características Principais
 
 ### 1. Componentes de Navegação
 
-O Design System inclui um menu de navegação que permite aos usuários acessar facilmente diferentes telas e seções.
+<p>O Design System inclui um menu de navegação que permite aos usuários acessar facilmente diferentes telas e seções.</p>
 
 ### 2. Telas Variadas
 
@@ -45,10 +66,16 @@ O Design System inclui um menu de navegação que permite aos usuários acessar 
 
 ### 5. Tecnologias Utilizadas
 
-<p>Foundation: como base para o layout e componentes.</p>
-<p>HTML e CSS: para estruturação e estilização.</p>
-<p>SCSS: para uma melhor organização e manutenção do código CSS.</p>
-<p>jQuery: para desenvolvimento de interações e funcionalidades nas telas.</p>
+<div>
+  <ul>
+    <li>Foundation: como base para o layout e componentes.</li>
+    <li>HTML e CSS: para estruturação e estilização.</li>
+    <li>SCSS: para uma melhor organização e manutenção do código CSS.</li>
+    <li>jQuery: para desenvolvimento de interações e funcionalidades nas telas.</li>
+  </ul>
+</div>
+
+
 
 ### 6. Documentação Detalhada
 
