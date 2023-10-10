@@ -12,15 +12,21 @@ O Design System inclui um menu de navegação que permite aos usuários acessar 
 
 ### 2. Telas Variadas
 
+<div>
 O Design System oferece uma ampla variedade de telas, cada uma com sua própria finalidade e conteúdo. Isso inclui:
-Telas de Textos e Títulos.
-Telas de Imagens e Texto.
-Telas de Ícones.
-Telas de Cards.
-Componentes Interativos.
-Telas de Vídeos.
-Telas de Podcasts.
-Uma tela One Page de demonstração, combinando vários desses componentes de maneira integrada.
+  <ul>
+    <li>Telas de Textos e Títulos.</li>
+    <li>Telas de Imagens e Texto.</li>
+    <li>Telas de Ícones.</li>
+    <li>Telas de Cards.</li>
+    <li>Componentes Interativos.</li>
+    <li>Telas de Vídeos.</li>
+    <li>Telas de Podcasts.</li>
+    <li>Uma tela One Page de demonstração, combinando vários desses componentes de maneira integrada.</li>
+  </ul>
+</div>
+
+
 
 ### 3. Acessibilidade
 
