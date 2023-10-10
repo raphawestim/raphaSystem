@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-<p>Este projeto Design System é uma robusta e abrangente biblioteca de componentes e diretrizes de design, desenvolvida com base no framework Foundation, HTML, CSS, SCSS e jQuery. Este Design System foi criado com o objetivo de proporcionar uma experiência de design consistente e acessível em todas as interfaces de usuário, desde telas de desktop até dispositivos móveis.</p>
+<p>Este projeto Design System é uma abrangente e versátil biblioteca de componentes e diretrizes de design criada para oferecer uma experiência de aprendizado excepcional e acessível. Desenvolvido com base no framework Foundation, HTML, CSS, SCSS e jQuery, este Design System é ideal para cursos e recursos educacionais online que seguem o padrão SCORM 1.2.</p>
 
 ## Recursos Educacionais de Qualidade
 
